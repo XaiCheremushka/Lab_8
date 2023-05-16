@@ -2,7 +2,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 #import pandas as pd
 #from openpyxl import load_workbook
 import time
-
+// ghelo
 data = {
     "Фамилия": "",
     "Имя": "",
